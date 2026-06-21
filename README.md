@@ -1,6 +1,6 @@
 # Hello, I'm PRATIMA PRAJAPATI
 
-Aspiring Data Analyst | Data Science Enthusiast
+Aspiring Data Analyst | Data Science 
 
 ## Welcome to my GitHub profile!
 
