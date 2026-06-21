@@ -1,41 +1,33 @@
-#  Hello, I'm Pratima Prajapati
+# Hello, I'm PRATIMA PRAJAPATI
 
-Aspiring Data Analyst | Data Science Enthusiast | Problem Solver
+Aspiring Data Analyst | Data Science Enthusiast
 
 ## Welcome to my GitHub profile!
 
-I'm passionate about transforming raw data into meaningful insights and building solutions that help people make better decisions. Currently pursuing my Bachelor's degree while continuously developing my skills in Data Analytics, Data Science, and Business Intelligence.
+I am passionate about transforming data into meaningful insights and solving real-world problems through analytics. Currently pursuing my Bachelor's degree while continuously building my skills in Data Analytics, Data Science, SQL, Python, and Business Intelligence.
 
-## 🚀 What You'll Find Here
+### Here you'll find projects, learning resources, and practical applications of data-driven problem solving as I continue growing in the field of analytics.
 
-📊 Data Analytics Projects using Python, SQL, Power BI, and Excel
+ 📊 Data Analytics Projects
 
-📈 Exploratory Data Analysis (EDA) and Data Visualization Projects
+📈 Exploratory Data Analysis (EDA)
 
-🤖 Machine Learning and Data Science Projects
+🗄️ SQL and Database Projects
 
-🗄️ SQL Queries, Database Management, and Data Cleaning Work
+📉 Data Visualization Dashboards
 
-📚 Learning Journey, Experiments, and Continuous Skill Development
+🤖 Data Science and Machine Learning Projects
 
-## 💡 Current Focus
+📚 Learning Notes and Experiments
 
-- Data Analytics
-- Data Science
-- Machine Learning
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
+💻 Skills & Tools
 
-## 🛠️ Tech Stack
-
-### Languages & Databases
+### Programming Languages
 
 - Python
 - SQL
-- MySQL
 
-### Data Analytics & Visualization
+### Data Analytics
 
 - Pandas
 - NumPy
@@ -43,23 +35,33 @@ I'm passionate about transforming raw data into meaningful insights and building
 - Power BI
 - Excel
 
-### Tools & Platforms
+### Databases
+
+- MySQL
+- SQLite
+
+### Tools
 
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Advanced SQL
 - Machine Learning
-- Statistical Analysis
-- Data Storytelling
-- Cloud Technologies
+- Statistics for Data Science
+- Data Visualization
+- Business Analytics
 
-### 📫 Connect With Me
+### Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/pratima-prajapati-2ba405401?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Email: [thepratimaprajapati21@gmail.com]
+LinkedIn: (https://www.linkedin.com/in/pratima-prajapati-2ba405401?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-## "Every dataset tells a story. My goal is to uncover it."
+Email: (thepratimaprajapati21@gmail.com)
+
+### Career Goal
+
+To build a career in Data Analytics and Data Science by creating impactful solutions, uncovering insights from data, and continuously learning new technologies.
+
+## "Every dataset has a story—I'm here to discover it."
