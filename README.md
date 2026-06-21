@@ -1,42 +1,62 @@
-Hi, I'm Pratima Prajapati 👋
+## Hello there, I'm PRATIMA PRAJAPATI
 
-📊 Aspiring Data Analyst & Data Scientist
+Aspiring Data Analyst | Data Science 
 
-🎓 Final-Year B.Sc. IT Student
+### Welcome to my GitHub profile! 🚀
 
-Passionate about transforming raw data into meaningful insights through analytics, visualization, and problem-solving.
+I'm passionate about turning data into meaningful insights and building projects that solve real-world problems. Currently, I'm developing my skills in Data Analytics, Data Science, SQL, Python, and Business Intelligence while exploring the world of machine learning and data-driven decision making.
 
-Skills
+## 🌐 Connect With Me
 
-- Power BI
-- SQL
-- Python
-- Excel
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/pratima-prajapati-2ba405401?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-Projects
+""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/theunwonderwoman._?igsh=ajJhem84Z3NlajU3)
 
-Superstore Sales Analysis Dashboard
+""GitHub" (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/pratima-prajapati)
 
-Interactive Power BI dashboard analyzing sales performance, customer behavior, regional trends, and product insights using the Superstore dataset.
+## 💻 Tech Stack
 
-Currently Learning
+Programming & Databases
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Data Analytics & Visualization
+
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+Tools
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+##  What You'll Find Here
+
+📊 Data Analytics Projects
+
+📈 Exploratory Data Analysis (EDA)
+
+🗄️ SQL Practice & Database Projects
+
+📉 Interactive Dashboards
+
+🤖 Data Science & Machine Learning Projects
+
+📚 Continuous Learning & Experimentation
+
+## Currently Learning
 
 - Advanced SQL
-- Python for Data Analysis
-- Machine Learning Fundamentals
-- Data Storytelling & Visualization
+- Machine Learning
+- Statistics for Data Science
+- Data Storytelling
+- Business Analytics
 
-Goals for 2026
+## ✨ Motto
 
-- Build impactful analytics projects
-- Strengthen Data Science skills
-- Contribute to open-source projects
-- Launch a professional data portfolio
-
-Connect With Me
-
-LinkedIn: Add your LinkedIn profile link here
-
-⭐ Always curious, always learning, and always exploring data.
+"Every dataset tells a story. My goal is to uncover it."
