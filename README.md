@@ -62,4 +62,4 @@ I'm passionate about transforming raw data into meaningful insights and building
 - LinkedIn: [https://www.linkedin.com/in/pratima-prajapati-2ba405401?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - Email: [thepratimaprajapati21@gmail.com]
 
-## "Data is more than numbers—it's the story behind every decision."
+## "Every dataset tells a story. My goal is to uncover it."
