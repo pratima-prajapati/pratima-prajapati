@@ -57,8 +57,11 @@ I am passionate about transforming data into meaningful insights and solving rea
 ### Connect With Me
 
 LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/pratima-prajapati-2ba405401?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 GitHub:[My GitHub Profile](https://github.com/pratima-prajapati)
+
 Instagram:[My Instagram Profile](https://www.instagram.com/theunwonderwoman._?igsh=ajJhem84Z3NlajU3)
+
 Email: thepratimaprajapati21@gmail.com
 
 ### Career Goal
