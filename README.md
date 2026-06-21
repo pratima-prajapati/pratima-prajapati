@@ -64,4 +64,4 @@ Email: (thepratimaprajapati21@gmail.com)
 
 To build a career in Data Analytics and Data Science by creating impactful solutions, uncovering insights from data, and continuously learning new technologies.
 
-## "Every dataset has a story—I'm here to discover it."
+## Every dataset has a story—I'm here to discover it.💫❤️
